@@ -1,0 +1,17 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment (optional, commonly ignored)
+.venv/
+venv/
+
+# IDE-specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
